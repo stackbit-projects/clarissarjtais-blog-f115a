@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let's test spoilers
-author: 'Clarissa rj '
+author: Clarissa RJ Tai
 categories:
   - Jekyll
   - tutorial
